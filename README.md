@@ -150,6 +150,3 @@ This project uses 5 different datasets, each corresponding to a specific disease
 
 ---
 
-
-### Contributor
-MD SAIF
